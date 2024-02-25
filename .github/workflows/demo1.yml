@@ -1,4 +1,4 @@
-name: hello-world
+name: hello-world final final
 on: workflow_dispatch
 jobs:
   my-job:
